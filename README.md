@@ -22,6 +22,6 @@ I have created a memory game with React. This assignment breaks down the applica
 
 # Developer Credit
 Douglas Boyce - A Full-stack web developer
-Github respository: http://github.io/douglasboyce/Clickey-Game
+Github respository: https://github.com/douglasboyce/Clickey-Game
 
 ![Click-Game](/images/screen-shot.png)
